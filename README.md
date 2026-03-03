@@ -21,3 +21,5 @@ This GitHub exists because I code — not because I need motivation.
 No grind.  
 No fluff.  
 Just code.
+
+![Profile Views](https://komarev.com/ghpvc/?username=HexWald&color=blue)
