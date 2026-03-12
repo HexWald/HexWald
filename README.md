@@ -9,12 +9,12 @@ This GitHub exists because I code — not because I need motivation.
 ---
 
 ## 🧠 Stack
-[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts,php)](https://skillicons.dev)
 
 ---
 
 ## 📌 In Plans
-[![Plans](https://skillicons.dev/icons?i=php,scala,haskell)](https://skillicons.dev)
+[![Plans](https://skillicons.dev/icons?i=scala,haskell)](https://skillicons.dev)
 
 ---
 
