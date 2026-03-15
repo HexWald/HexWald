@@ -9,7 +9,7 @@ This GitHub exists because I code — not because I need motivation.
 ---
 
 ## 🧠 Stack
-[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts,php)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts,php,html,css,js)](https://skillicons.dev)
 
 ---
 
