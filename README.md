@@ -1,10 +1,8 @@
 # 👋 Hi, I'm a Developer
 
-I build software.  
-Sometimes serious. Sometimes unnecessary. Always intentional.
-
-Experienced across multiple languages, paradigms, and bad ideas that somehow worked.  
-This GitHub exists because I code — not because I need motivation.
+I write code.  
+Mostly plugins for fun - code for the sake of code.  
+But I also work on serious projects when needed.
 
 ---
 
@@ -13,13 +11,11 @@ This GitHub exists because I code — not because I need motivation.
 
 ---
 
-## 📌 In Plans
-[![Plans](https://skillicons.dev/icons?i=scala,haskell)](https://skillicons.dev)
+## 📌 Learning
+[![Learning](https://skillicons.dev/icons?i=scala,haskell)](https://skillicons.dev)
 
 ---
 
-No grind.  
-No fluff.  
 Just code.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HexWald&color=blue)
