@@ -7,7 +7,7 @@ But I also work on serious projects when needed.
 ---
 
 ## 🧠 Stack
-[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts,php,html,css,js)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=c,cs,cpp,python,java,go,ruby,ts,php,js)](https://skillicons.dev)
 
 ---
 
