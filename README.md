@@ -1,16 +1,16 @@
-# 👋 Hi, I'm a Developer
+# HexWald
 
-I write code.  
-Mostly plugins for fun - code for the sake of code.  
-But I also work on serious projects when needed.
+I build Minecraft tools, small plugins, and whatever else looks fun enough to finish.
+
+Some repos are jokes. Some are proper utilities. Both count.
 
 ---
 
-## Current focus
+## Lately
 
-- Minecraft tools and small quality-of-life plugins
-- GUI utilities that are simple enough to actually use
-- Keeping projects readable, tested, and easy to release
+- CacaoVisualClient
+- ServerInserter
+- Minecraft scanners and plugin experiments
 
 ---
 
